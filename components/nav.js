@@ -1,6 +1,8 @@
 const Nav = () => {
     return (
-        <nav></nav>
+        <nav>
+            <h1>Company name</h1>
+        </nav>
     )
 };
 
